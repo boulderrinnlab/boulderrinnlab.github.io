@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to the Rinn lab git hub.
 
-You can use the [editor on GitHub](https://github.com/boulderrinnlab/boulderrinnlab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Our laboratory aims to bridge the computational and experimental sciences to explore the human genome for new types of regulatory elements.
+Here we share our [laboratory protocols](https://github.com/boulderrinnlab/Protocols), [code](https://github.com/boulderrinnlab/PerilPaperAnalysis), [teaching](https://github.com/boulderrinnlab/CLASS_2021) and [publication summaries](https://www.youtube.com/channel/UCRij100Kgla9Q4t3kEd0YLA)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Here are some resources to supplement our git repositories.
 
-- Bulleted
-- List
+[Rinnlab](https://www.lncrna.io/)
 
-1. Numbered
-2. List
+[Rinn lab Teaching](https://www.lncrna.io/teaching)
 
-**Bold** and _Italic_ and `Code` text
+[Rinnformatics Youtube Teaching Channel](https://www.youtube.com/channel/UC7vZD35eUp4_SxsHnJLthJw/playlists)
 
-[Link](url) and ![Image](src)
-```
+[Rinn lab Papers overview youtube](https://www.youtube.com/channel/UCRij100Kgla9Q4t3kEd0YLA)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Take our inquiry based class to become a 'bioinformatian'](https://github.com/boulderrinnlab/CLASS_2021)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/boulderrinnlab/boulderrinnlab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
